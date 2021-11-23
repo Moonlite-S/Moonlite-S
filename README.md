@@ -1,6 +1,6 @@
 Hello!
 
-  My name is Sean Louis Dela Cruz, and I am currently a junior in college, going for a Bachelor's degree in Computer Science.
+  My name is Sean Louis Dela Cruz, and I am currently a senior in college, going for a Bachelor's degree in Computer Science.
   
   I'm interested in various things, but never really stay on one topic. I like learning new things when it comes to the world of programming, and I hope to expand my knowledge
   even more!
