@@ -2,10 +2,7 @@ Hello!
 
   My name is Sean Louis Dela Cruz, and I am currently a senior in college, going for a Bachelor's degree in Computer Science.
   
-  I'm interested in various things, but never really stay on one topic. I like learning new things when it comes to the world of programming, and I hope to expand my knowledge
-  even more!
-  
-  I'm still somewhat new to the online comp sci community as I never dabbled in Github or the sort, but I'm getting by alright.
+  I'm interested in various things, but never really stay on one topic. I like constantly learning new things from Web dev to software engineering to robotics. I'm definitely not that great in any field, though.
   
   My projects are a place where they keep me motivated to keep programming and expanding my knowledge.
   
