@@ -1,6 +1,6 @@
 Hello!
 
-  My name is Sean Louis Dela Cruz, and I am currently a senior in college, going for a Bachelor's degree in Computer Science.
+  My name is Sean Louis Dela Cruz, a recent grad from the University of Rio Grande Valley in Texas.
   
   I'm interested in various things, but never really stay on one topic. I like constantly learning new things from Web dev to software engineering to robotics. I'm definitely not that great in any field, though.
   
